@@ -3,6 +3,8 @@
 Project Summary
 
 In this project, I deployed and managed a cloud-based web server using Amazon EC2. The goal was to understand how cloud infrastructure works from start to finish including deployment, security, monitoring, scaling, and protection mechanisms.
+
+![Example Image](folder/diagram.png)
 _______________________________________________________________________________________________
 Launching the EC2 Instance
 
