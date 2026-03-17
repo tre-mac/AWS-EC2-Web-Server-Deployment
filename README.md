@@ -22,7 +22,8 @@ Enabled:
 
 This ensures the server is secure and prevents accidental deletion early on.
 
-![Example Image](Instance.png)
+![Example Image](folder/Instance.png)
+
 ___________________________________________________________________________________________________
 Automating the Web Server Setup
 
