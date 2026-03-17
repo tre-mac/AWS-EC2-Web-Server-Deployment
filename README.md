@@ -37,6 +37,8 @@ Starts the web server
 Creates a live webpage automatically
 
 Server was ready immediately after launch
+
+![Example Image](folder/Step2.png)
 ________________________________________________________________________________________________________
 Configuring Network Security
 
