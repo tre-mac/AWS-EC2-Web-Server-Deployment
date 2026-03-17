@@ -24,18 +24,7 @@ This ensures the server is secure and prevents accidental deletion early on.
 ___________________________________________________________________________________________________
 Automating the Web Server Setup
 
-- Instead of manually installing software, I used a User Data script:
-
-#!/bin/bash
-
-dnf install -y httpd
-
-systemctl enable httpd
-
-systemctl start httpd
-echo '<html><h1></h1></html>' > /var/www/html/index.html
-
-What this does:
+- Instead of manually installing software, I used a User Data script that:
 
 Installs Apache
 
