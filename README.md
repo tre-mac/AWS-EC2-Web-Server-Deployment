@@ -21,6 +21,8 @@ Enabled:
 ✅ Stop Protection
 
 This ensures the server is secure and prevents accidental deletion early on.
+
+![Example Image](Instance.png)
 ___________________________________________________________________________________________________
 Automating the Web Server Setup
 
