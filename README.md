@@ -23,7 +23,8 @@ Enabled:
 This ensures the server is secure and prevents accidental deletion early on.
 
 ![Example Image](folder/Instance.png)
-
+![Example Image](folder/Deleteprevent.png)
+![Example Image](folder/Stopprevent.png)
 ___________________________________________________________________________________________________
 Automating the Web Server Setup
 
