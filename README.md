@@ -38,6 +38,8 @@ Creates a live webpage automatically
 
 Server was ready immediately after launch
 
+![Example Image](folder/Datascript.png)
+
 ![Example Image](folder/Step2.png)
 ________________________________________________________________________________________________________
 Configuring Network Security
@@ -52,6 +54,8 @@ Web server became accessible via public IP
 
 Key takeaway:
 Cloud servers are secure by default, so you must explicitly allow traffic.
+
+![Example Image](folder/SecurityGroup.png)
 ___________________________________________________________________________________________________________
 Monitoring the Instance
 
@@ -82,6 +86,8 @@ Improved performance capacity
 
 Key concept:
 Cloud allows on-demand scaling without rebuilding infrastructure.
+
+![Example Image](folder/Scalingtheserver.png)
 _________________________________________________________________________________________________________________
 What I Learned
 
