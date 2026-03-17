@@ -26,11 +26,11 @@ Automating the Web Server Setup
 
 - Instead of manually installing software, I used a User Data script:
 
-**#!/bin/bash
+#!/bin/bash
 dnf install -y httpd
 systemctl enable httpd
 systemctl start httpd
-echo '<html><h1>Hello From My Web Server!</h1></html>' > /var/www/html/index.html"**
+echo '<html><h1></h1></html>' > /var/www/html/index.html
 
 What this does:
 
